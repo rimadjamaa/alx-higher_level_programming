@@ -8,7 +8,8 @@ def square_matrix_simple(matrix=[]):
         matrix: A 2 dimensional array.
 
     Returns:
-        A new matrix with each value being the square of the corresponding value in the input matrix.
+        A new matrix with each value being the square
+        of the corresponding value in the input matrix.
     """
     # Create a new matrix to store the result
     result_matrix = []
@@ -21,6 +22,6 @@ def square_matrix_simple(matrix=[]):
         for num in row:
             squared_row.append(num ** 2)
         # Add the squared row to the result matrix
-        result_matrix.append(squared_row)
+        # result_matrix.append(squared_row)
 
     return result_matrix
