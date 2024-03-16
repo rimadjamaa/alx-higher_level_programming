@@ -1,0 +1,3 @@
+#!/usr/bin/python3
+str = "Holberton School"
+pritn(f'{str *3}\n{str[:9]}')

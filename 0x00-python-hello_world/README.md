@@ -1,0 +1,1 @@
+this directory contain few exercices to understand clearly and begin with python
